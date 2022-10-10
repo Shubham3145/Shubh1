@@ -5,6 +5,10 @@ Welcome to Shubham's Page
 Registration page
 Login page
 Forget password
+Username
+Password
 
 
 Thank you...!!!
+
+Done my changes
